@@ -6,7 +6,7 @@
 [![Google Gemini](https://img.shields.io/badge/AI-Google%20Gemini%20%7C%20Imagen%203-4285F4.svg)](https://deepmind.google/technologies/gemini/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-> **MVP for an AI-First Visual Editing Platform** that empowers social media creators, marketers, product designers, and everyday users to search, view, and transform images using pure natural language — completely eliminating the steep learning curve of traditional legacy editing software.
+> **MVP for an AI-First Visual Editing Platform** that empowers social media creators, marketers, product designers, and everyday users to search, view, and transform images      using pure natural language — completely eliminating the steep learning curve of traditional legacy editing software.
 
 ---
 
